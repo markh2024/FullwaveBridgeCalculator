@@ -1,7 +1,16 @@
-# Full-Wave Bridge Rectifier Tool
+## Full-Wave Bridge Rectifier Tool
+
+### MD Harrington Bexleyheath Kent London UK
+
+<p align="center">
+  <img src="MainScreen.png" alt="MainScreen" width="600">
+</p>
 
 A small, menu-driven **C command-line application** for exploring the
 voltage behaviour of a full-wave bridge rectifier.
+
+
+
 
 The program can:
 
@@ -13,6 +22,10 @@ The program can:
 
 The application is written in standard C with a few platform-specific
 commands for opening the generated image in the default viewer.
+
+<p align="center">
+  <img src="Graph.png" alt="Displays Graph" width="600">
+</p>
 
 ------------------------------------------------------------------------
 
